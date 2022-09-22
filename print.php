@@ -96,6 +96,10 @@ if (!empty($select)) {
 </html>
 
 <style>
+    @page {
+        margin: 0;
+    }
+
     body {
         margin: 0;
         padding: 30px;
